@@ -1,10 +1,10 @@
 # ISM2411 — Python for Business
 
-**Name:** Your Name Here
+**Name:** Duc Nguyen
 
 **Semester:** Fall 2026
 
-**Instructor:** [Course Instructor]
+**Instructor:** Markum Reed 
 
 ## About This Repo
 
